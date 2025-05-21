@@ -4,7 +4,7 @@
 
 Welcome to the **E-Commerce Website** built with **React** and styled using **TailwindCSS**. This website allows users to browse, filter, and purchase products from an API-powered store. Key features include product search, category filters, price filters, sorting options, and an add-to-cart system that is integrated with local storage to persist cart data.
 
-Check out the live website: [Visit Our Store](https://www.pri-shopify.netlify.app)
+Check out the live website: [Visit Our Store](https://pri-shopify.netlify.app/)
 
 ## Features
 
